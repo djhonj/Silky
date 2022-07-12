@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit
 
 object ServiceBuilder {
     //generador de servicios para realizar las peticiones
-    private const val URL_API = "API"
+    private const val URL_API = "APIii"
     private val logger: HttpLoggingInterceptor = HttpLoggingInterceptor().setLevel(HttpLoggingInterceptor.Level.BASIC)
         .setLevel(HttpLoggingInterceptor.Level.HEADERS)
         .setLevel(HttpLoggingInterceptor.Level.BODY)
